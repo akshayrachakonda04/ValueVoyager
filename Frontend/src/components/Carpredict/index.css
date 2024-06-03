@@ -1,0 +1,11 @@
+.car-cont h1{
+    color: rgb(250, 247, 247);
+    height: 50px;
+    padding: 50px;
+    margin: 5px solid black;
+    height: 544px;
+}
+
+.car-cont{
+    background-color: black;
+}

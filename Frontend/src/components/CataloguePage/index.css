@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.catalogue-container{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height:90vh;
+}
+
+.car-image{
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.car-card{
+    background-color: rgb(250, 249, 249);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 0px;
+    text-align: center;
+    width: 25%;
+}
+
+.car-card h1{
+    color: rgb(8, 8, 8);
+}
+
+.car-card button{
+    background-color: rgb(255, 0, 0);
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    border: 0px;
+}
